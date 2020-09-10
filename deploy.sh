@@ -1,0 +1,1 @@
+docker run --name simple-express-server -e PORT=80 -p 3000:80 -d thianlopezz/simple-express-server
